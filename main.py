@@ -10,6 +10,7 @@ while r.isdigit()==False or c.isdigit()==False or int(r) not in range(rows) or i
         rows = 6
         columns = 6
         continue
+ print('tats it')
 
 
 
